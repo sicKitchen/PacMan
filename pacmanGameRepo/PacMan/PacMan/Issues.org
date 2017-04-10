@@ -1,0 +1,42 @@
+PacMan Game Issues
+
+
+*  ######### Resolved Issues ######### *
+*** DONE 1. Create PacMan repo, README.md, ISSUES.org and set up git Master.
+*** DONE 2. Figure basic rules and dimentions of gameboard and sprites
+*** DONE 3. Get window drawn on screen (game size), cap fps
+*** DONE 6. Add State transition from start screen to first level
+*** DONE 5. Create Pacman map and get rendered on screen
+*** DONE 4. Create sprite sheet for PacMan game. (Make sure dimmentions work) 
+
+*** DONE 8. Get simple Ghost drawn on screen.
+*** DONE 7. Implement grid movement and get pacman moving around map.
+*** DONE 13. add solid tiles to map   
+*** DONE 10. Implement pac-dots
+*** DONE 15. Add PowerPills to map.
+*** DONE 16. Make it so PacMan eats the PacDots 
+*** DONE 11. Update animation for all directions of pacman.
+*** DONE 14. Connect up pathways in the middle of map 
+*** DONE 9. Get single ghost chasing pacman.
+*** DONE 22. Get basic splash screen running
+*** DONE 20. Implement Pinky
+*** DONE 19. Implement Inky
+*** DONE 21. Implement Clyde
+*** DONE 17. Make it so pacman eats PowerPill
+*** DONE 18. Add power Pill State where ghost run away
+*** DONE 25. Add lives to PacMan. When he colides with a ghost, Subtract health
+*** DONE 26. Add Win State when all PacDots are ate
+*** DONE 23. Update splash screen, make it look better
+*** DONE 24. Make ghost exit at different times. 
+*** DONE 27. Add sound
+*** DONE 29. Add points to the game
+* ######### Current Issues ######### *
+*** 12. Clean Up animations
+*** 28. Balance ghost speed and Pacman Speed
+** ########### Create New Issue ############# **
+*** 30.
+* ############ NOTES ##################### *
+- On Oct 17th I somehow lost all of my previous commit mesages. I was able to 
+  recover most of the code but was unable to recover the messages. I am not
+  going to lie, I am pretty frustrated. Issue 1-6 are now just inside develop
+  branch. 
